@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cardType id="6f36f3c1-d669-4a5c-acb1-68022d3f1d55" name="Vtb24ClientCategoryBySanction" caption="Категория досье в зависимости от списка санкций" group="Vtb24" type="0" flags="0" class="Tessa.UI.Cards.Forms.DefaultFormType" tabCaption="$CardTypes_Tabs_Card" tabOrder="0">
+	<id section="72900b23-289d-4030-88c5-9c4dc2b8a234" columns="592e5261-d0d8-4b17-b1bc-d0d617af9d93" />
+	<id section="d3bf0e2b-e126-4f48-8244-c6aa15e068e4" columns="5dd0c9a3-bb06-40d4-8d75-7e36a673cd7d" />
+	<settings>EwAAABBJbnRlcnZhbAAKAAAAAA==</settings>
+	<block name="Block1" caption="Категория досье в зависимости от списка санкций" order="0" class="Tessa.UI.Cards.Blocks.ColumnBlockType">
+		<blockSettings>ZwAAABBWZXJ0aWNhbEludGVydmFsAAUAAAAQSG9yaXpvbnRhbEludGVydmFsAAUAAAAQQ29sdW1uc0NvdW50AAEAAAAISXNIaWRkZW4AAAhBbHdheXNNdWx0aXBsZUNvbHVtbgAAAA==</blockSettings>
+		<formSettings>EwAAAAhIaWRlQ2FwdGlvbgAAAA==</formSettings>
+		<entry caption="Категория" order="0" type="208e364e-94fe-0d64-bc27-6b4dc12d039c" flags="0" section="d3bf0e2b-e126-4f48-8244-c6aa15e068e4" complexColumn="5dd0c9a3-bb06-40d4-8d75-7e36a673cd7d" format="{0}">
+			<controlSettings>WQIAAAJUZXh0Q29sb3IACgAAACNGRjAwMDAwMAADVGV4dFN0eWxlABMBAAACU2VsZWN0ZWRGb250RmFtaWx5AB0AAABTZWdvZSBVSSwgLi9Gb250cy8jT3BlbiBTYW5zAAJTZWxlY3RlZEZvbnRXZWlnaHQABwAAAE5vcm1hbAACU2VsZWN0ZWRGb250U3R5bGUABwAAAE5vcm1hbAACU2VsZWN0ZWRGb250U3RyZXRjaAAHAAAATm9ybWFsAAFTZWxlY3RlZEZvbnRTaXplAAAAAAAAAChACFNlbGVjdGVkVGV4dFVuZGVybGluZQAACFNlbGVjdGVkVGV4dEJhc2VsaW5lAAAIU2VsZWN0ZWRUZXh0U3RyaWtldGhyb3VnaAAACFNlbGVjdGVkVGV4dE92ZXJMaW5lAAAAAlZpZXdBbGlhcwAWAAAAVnRiMjRDbGllbnRDYXRlZ29yaWVzAAJQYXJhbWV0ZXJBbGlhcwAFAAAATmFtZQAKUmVmU2VjdGlvbgAISGlkZVNlbGVjdG9yQnV0dG9uAAAIQ29tYm9Cb3hNb2RlAAAITWFudWFsSW5wdXQAAApNYW51YWxJbnB1dENvbHVtbklEAAJWaWV3QWxpYXNDb21ib0JveAAWAAAAVnRiMjRDbGllbnRDYXRlZ29yaWVzAAhJc0FsbG93T3BlblJlZnMAAQpWaWV3TWFwABBNYXhSZXN1bHRzQ291bnQADwAAAAJWaWV3UmVmZXJlbmNlUHJlZml4AAkAAABDYXRlZ29yeQAKU2VhcmNoRGVsYXkAAA==</controlSettings>
+			<blockSettings>IQAAAAhIaWRlQ2FwdGlvbgAACENvbnRyb2xTcGFuAAAA</blockSettings>
+		</entry>
+		<table caption="Санкции" order="1" type="5d95340a-0f22-0d14-b9d2-a5471f607261" flags="0" id="72900b23-289d-4030-88c5-9c4dc2b8a234">
+			<controlSettings>OAIAAAJUZXh0Q29sb3IACgAAACNGRjAwMDAwMAADVGV4dFN0eWxlABMBAAACU2VsZWN0ZWRGb250RmFtaWx5AB0AAABTZWdvZSBVSSwgLi9Gb250cy8jT3BlbiBTYW5zAAJTZWxlY3RlZEZvbnRXZWlnaHQABwAAAE5vcm1hbAACU2VsZWN0ZWRGb250U3R5bGUABwAAAE5vcm1hbAACU2VsZWN0ZWRGb250U3RyZXRjaAAHAAAATm9ybWFsAAFTZWxlY3RlZEZvbnRTaXplAAAAAAAAAChACFNlbGVjdGVkVGV4dFVuZGVybGluZQAACFNlbGVjdGVkVGV4dEJhc2VsaW5lAAAIU2VsZWN0ZWRUZXh0U3RyaWtldGhyb3VnaAAACFNlbGVjdGVkVGV4dE92ZXJMaW5lAAAAAlZpZXdBbGlhcwAPAAAAVnRiMjRTYW5jdGlvbnMAAlBhcmFtZXRlckFsaWFzAAUAAABOYW1lAApSZWZTZWN0aW9uAAhIaWRlU2VsZWN0b3JCdXR0b24AAAhMaW5lQnJlYWtTZXR0aW5nAAAITWFudWFsSW5wdXQAAApNYW51YWxJbnB1dENvbHVtbklEAAhJc0FsbG93T3BlblJlZnMAAQpWaWV3TWFwABBNYXhSZXN1bHRzQ291bnQADwAAAAJWaWV3UmVmZXJlbmNlUHJlZml4AAkAAABTYW5jdGlvbgAKU2VhcmNoRGVsYXkACk9yZGVyQ29sdW1uSUQAAA==</controlSettings>
+			<blockSettings>IQAAAAhIaWRlQ2FwdGlvbgAACENvbnRyb2xTcGFuAAEA</blockSettings>
+			<column caption="Reference" order="0" alignment="0" flags="0" complexColumn="592e5261-d0d8-4b17-b1bc-d0d617af9d93" />
+		</table>
+	</block>
+</cardType>

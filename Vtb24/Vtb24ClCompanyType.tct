@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cardType id="f87361dd-0068-40e3-bc70-afb8f9b1c843" name="Vtb24ClCompanyType" caption="$CardTypesTypesNamesVtb24ClCompanyType" group="Vtb24" type="0" flags="0" class="Tessa.UI.Cards.Forms.DefaultFormType" tabCaption="$CardTypesTabsVtb24ClCompanyType" tabOrder="0">
+	<id section="f16d148f-36a2-4259-ab8f-31f4f4e2a2e7" columns="643c323e-10b0-4e9b-91f5-77d5a574df4e;ec1ff2fa-6d4c-4eb2-938a-2824cd13496d;98b9c371-2745-4648-a7c2-38c255d2da09" />
+	<settings>EwAAABBJbnRlcnZhbAAKAAAAAA==</settings>
+	<block name="Block1" caption="Block1" order="0" class="Tessa.UI.Cards.Blocks.ColumnBlockType">
+		<blockSettings>ZwAAABBWZXJ0aWNhbEludGVydmFsAAUAAAAQSG9yaXpvbnRhbEludGVydmFsAAUAAAAQQ29sdW1uc0NvdW50AAEAAAAISXNIaWRkZW4AAAhBbHdheXNNdWx0aXBsZUNvbHVtbgAAAA==</blockSettings>
+		<formSettings>EwAAAAhIaWRlQ2FwdGlvbgABAA==</formSettings>
+		<entry caption="Код" order="0" type="1962c931-9c23-0eb9-903c-26bac9ef3571" flags="0" section="f16d148f-36a2-4259-ab8f-31f4f4e2a2e7" columns="643c323e-10b0-4e9b-91f5-77d5a574df4e">
+			<controlSettings>kQEAAAJUZXh0Q29sb3IACgAAACNGRjAwMDAwMAADVGV4dFN0eWxlABMBAAACU2VsZWN0ZWRGb250RmFtaWx5AB0AAABTZWdvZSBVSSwgLi9Gb250cy8jT3BlbiBTYW5zAAJTZWxlY3RlZEZvbnRXZWlnaHQABwAAAE5vcm1hbAACU2VsZWN0ZWRGb250U3R5bGUABwAAAE5vcm1hbAACU2VsZWN0ZWRGb250U3RyZXRjaAAHAAAATm9ybWFsAAFTZWxlY3RlZEZvbnRTaXplAAAAAAAAAChACFNlbGVjdGVkVGV4dFVuZGVybGluZQAACFNlbGVjdGVkVGV4dEJhc2VsaW5lAAAIU2VsZWN0ZWRUZXh0U3RyaWtldGhyb3VnaAAACFNlbGVjdGVkVGV4dE92ZXJMaW5lAAAAEE1heExlbmd0aAD///9/EE1pblJvd3MAAQAAABBNYXhSb3dzAAEAAAAIVGV4dFdyYXAAARBUZXh0TW9kZQAAAAAACFNob3dFeHBhbmRCdXR0b24AAQA=</controlSettings>
+			<blockSettings>IQAAAAhIaWRlQ2FwdGlvbgAACENvbnRyb2xTcGFuAAAA</blockSettings>
+		</entry>
+		<entry caption="Значение" order="1" type="1962c931-9c23-0eb9-903c-26bac9ef3571" flags="0" section="f16d148f-36a2-4259-ab8f-31f4f4e2a2e7" columns="ec1ff2fa-6d4c-4eb2-938a-2824cd13496d">
+			<controlSettings>kQEAAAJUZXh0Q29sb3IACgAAACNGRjAwMDAwMAADVGV4dFN0eWxlABMBAAACU2VsZWN0ZWRGb250RmFtaWx5AB0AAABTZWdvZSBVSSwgLi9Gb250cy8jT3BlbiBTYW5zAAJTZWxlY3RlZEZvbnRXZWlnaHQABwAAAE5vcm1hbAACU2VsZWN0ZWRGb250U3R5bGUABwAAAE5vcm1hbAACU2VsZWN0ZWRGb250U3RyZXRjaAAHAAAATm9ybWFsAAFTZWxlY3RlZEZvbnRTaXplAAAAAAAAAChACFNlbGVjdGVkVGV4dFVuZGVybGluZQAACFNlbGVjdGVkVGV4dEJhc2VsaW5lAAAIU2VsZWN0ZWRUZXh0U3RyaWtldGhyb3VnaAAACFNlbGVjdGVkVGV4dE92ZXJMaW5lAAAAEE1heExlbmd0aAD///9/EE1pblJvd3MAAQAAABBNYXhSb3dzAAEAAAAIVGV4dFdyYXAAARBUZXh0TW9kZQAAAAAACFNob3dFeHBhbmRCdXR0b24AAQA=</controlSettings>
+			<blockSettings>IQAAAAhIaWRlQ2FwdGlvbgAACENvbnRyb2xTcGFuAAAA</blockSettings>
+		</entry>
+		<entry caption="Недоступен для выбора" order="2" type="79633881-a684-010a-b1ea-027d714bda5d" flags="0" section="f16d148f-36a2-4259-ab8f-31f4f4e2a2e7" columns="98b9c371-2745-4648-a7c2-38c255d2da09">
+			<controlSettings>PAEAAAJUZXh0Q29sb3IACgAAACNGRjAwMDAwMAADVGV4dFN0eWxlABMBAAACU2VsZWN0ZWRGb250RmFtaWx5AB0AAABTZWdvZSBVSSwgLi9Gb250cy8jT3BlbiBTYW5zAAJTZWxlY3RlZEZvbnRXZWlnaHQABwAAAE5vcm1hbAACU2VsZWN0ZWRGb250U3R5bGUABwAAAE5vcm1hbAACU2VsZWN0ZWRGb250U3RyZXRjaAAHAAAATm9ybWFsAAFTZWxlY3RlZEZvbnRTaXplAAAAAAAAAChACFNlbGVjdGVkVGV4dFVuZGVybGluZQAACFNlbGVjdGVkVGV4dEJhc2VsaW5lAAAIU2VsZWN0ZWRUZXh0U3RyaWtldGhyb3VnaAAACFNlbGVjdGVkVGV4dE92ZXJMaW5lAAAAAA==</controlSettings>
+			<blockSettings>IQAAAAhIaWRlQ2FwdGlvbgABCENvbnRyb2xTcGFuAAAA</blockSettings>
+		</entry>
+	</block>
+</cardType>
